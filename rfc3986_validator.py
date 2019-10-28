@@ -1,6 +1,6 @@
 import re
 
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 __author__ = 'Nicolas Aimetti <naimetti@onapsis.com>'
 __all__ = ['validate_rfc3986']
 
