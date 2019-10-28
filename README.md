@@ -1,6 +1,6 @@
-# rfc3339-validator
+# rfc3986-validator
 
-A pure python RFC3339 validator
+A pure python RFC3986 validator
 
 
 [![image](https://img.shields.io/pypi/v/rfc3986_validator.svg)](https://pypi.python.org/pypi/rfc3986_validator)

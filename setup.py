@@ -39,7 +39,7 @@ setup(
     include_package_data=True,
     keywords='rfc3986 validator',
     name='rfc3986_validator',
-    py_module=['rfc3986_validator'],
+    py_modules=['rfc3986_validator'],
     setup_requires=setup_requirements,
     test_suite='tests',
     tests_require=test_requirements,
